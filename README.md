@@ -1,4 +1,4 @@
-## Hello there 👋, I’m Joshua Purity Olubiyo widely known as BLAQGENDA.
+### Hello there 👋, I’m Joshua Purity Olubiyo widely known as BLAQGENDA.
 
 
 - 🎓 Currently studying **Data Science at AltSchool Africa. Passionate about learning, building, and sharing knowledge.**
