@@ -9,7 +9,7 @@
  
 - 💞️ I'm open to **collaborating on projects where I can apply my skills.**
 
-- 🧠 Visit my **[portfolio](https://blaqgenda.cv/) to learn more about the projects I’ve built.**
+- 🧠 Visit my **[portfolio](https://blaqgenda.cv/) to learn more about me.**
  
 - 📫 Reach me at: **olubiyopurity@gmail.com**
 
@@ -34,17 +34,3 @@
 
 
 
-<!--
-**callmeblaqgenda/callmeblaqgenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
