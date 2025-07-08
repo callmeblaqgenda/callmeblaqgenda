@@ -8,6 +8,8 @@
 - 🌱 I’m currently **sharpening my machine learning and modeling skills, improving statistical thinking, and building end-to-end data science projects.**
  
 - 💞️ I'm open to **collaborating on projects where I can apply my skills.**
+
+- 🧠 Visit my **[portfolio](https://blaqgenda.cv/) to learn more about the projects I’ve built.**
  
 - 📫 Reach me at: **olubiyopurity@gmail.com**
 
