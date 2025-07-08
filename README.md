@@ -9,6 +9,8 @@
  
 - 💞️ I'm open to **collaborating on projects where I can apply my skills.**
  
+- 📫 Reach me at: **olubiyopurity@gmail.com**
+
 - 😄 Pronouns: **He/Him**
  
 - ⚡ Fun fact: **Decided to learn everything about the Music Business just because of my deep love for Music.**
