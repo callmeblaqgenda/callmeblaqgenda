@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: **He/Him**
  
-- ⚡ Fun fact: **Decided to learn everything about the Music Business just because of my deep love for Music.**
+- ⚡ Fun fact: **Learnt everything about the Music Business just because of my deep love for Music.**
 
 ---
 
