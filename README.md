@@ -18,6 +18,11 @@
 - ⚡ Fun fact: **Learnt everything about the Music Business just because of my deep love for Music.**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=callmeblaqgenda.callmeblaqgenda)
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=BLAQGENDA.BLAQGENDA)
+
+Welcome to my GitHub profile!
+
 ---
 
 ### 🛠️ Tech Tools
