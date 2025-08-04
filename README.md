@@ -17,10 +17,7 @@
  
 - ⚡ Fun fact: **Learnt everything about the Music Business just because of my deep love for Music.**
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=callmeblaqgenda.callmeblaqgenda)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=callmeblaqgenda.callmeblaqgenda)
-![Visitors](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/callmeblaqgenda.readme/visits)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=callmeblaqgenda.callmeblaqgenda)
 ---
 
 ### 🛠️ Tech Tools
