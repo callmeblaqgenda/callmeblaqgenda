@@ -1,7 +1,7 @@
 ## Hello there 👋, I’m Joshua Purity Olubiyo widely known as BLAQGENDA!
 
 
-- 🎓 Emerged the **Best Graduating Learner for Data Science at AltSchool Africa Tinyuka 2025. Passionate about learning, building, and sharing knowledge.**
+- 🎓 Emerged the **Best Graduating Learner in Data Science at AltSchool Africa Tinyuka 2025. Passionate about learning, building, and sharing knowledge.**
  
 - 👀 I’m interested in **EDA, data visualization, machine learning, A/B testing, model deployment, real-world datasets, data storytelling, and open-source collaborations.**
  
